@@ -62,7 +62,7 @@ DDD
 1. DDD
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/Majonnie/sandbox-2d-godot
    ```
 3. DDD
 
