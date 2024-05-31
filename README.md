@@ -1,4 +1,4 @@
-# sandbox-2d-godot
+# SandBox 2D Godot
 
 <a name="readme-top"></a>
 
@@ -107,7 +107,7 @@ Helpful resources I used for this project.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/Majonnie/sandbox-2d-godot.svg?style=for-the-badge
 [issues-url]: https://github.com/Majonnie/sandbox-2d-godot/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [twitter-url]: https://x.com/majolerigolo
